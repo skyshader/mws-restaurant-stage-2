@@ -1,0 +1,24 @@
+{
+  "name": "mws-restaurant-2",
+  "version": "1.0.0",
+  "description": "MWS Stage 2 Project - Restaurant Review App",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyshader/mws-restaurant-stage-2.git"
+  },
+  "keywords": [
+    "mws",
+    "udacity",
+    "google",
+    "restaurant",
+    "review",
+    "nanodegree"
+  ],
+  "author": "Shardendu Kumar Gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyshader/mws-restaurant-stage-2/issues"
+  },
+  "homepage": "https://github.com/skyshader/mws-restaurant-stage-2#readme"
+}
